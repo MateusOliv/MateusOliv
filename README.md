@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
 
 - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
-- - See my LinkedIn: [ARTHUR PC](https://www.linkedin.com/in/arthurpc03/)
+- - See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-nunes-10b73a231/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
