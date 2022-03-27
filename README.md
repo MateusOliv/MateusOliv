@@ -4,11 +4,12 @@
 - 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
 
 - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
-- - See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-nunes-10b73a231/)
+- :mag: See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-nunes-10b73a231/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://github.com/ARTHURPC03/ARTHURPC03/raw/master/github/linkedin.png" alt="LinkedIn" height="50">
+  <a href="https://www.linkedin.com/in/mateus-nunes-10b73a231/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
