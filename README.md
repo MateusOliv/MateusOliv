@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
 
 - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
-- :mag: See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-oliv/ "target="_blank")
+- :mag: See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-oliv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mateus-oliv/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-oliv/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
 </p>
 
