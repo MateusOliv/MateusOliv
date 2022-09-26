@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mateus Nunes</h1>
+<h1 align="center">Mateus Nunes</h1>
 <h3 align="center">Looking for internship experience in software development and analysis</h3>
 
 - 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
@@ -25,31 +25,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauros&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-Olá! Me chamo Alexandre! 👋
-Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+  - uses: Platane/snk@v2
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
-about Mais sobre mim
-
-
-const express = require('express')
-const app = express()
-
-const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
-
-app.get('/', (req, res) =>{
-  return res.send(webDeveloper)
-}),
-
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
-Linguagens e Ferramentas:
-
-       
-
-
-Vamos nos Conectar:
-  
-
-
-Snake animation
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
