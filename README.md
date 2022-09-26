@@ -25,3 +25,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llauros&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauros&layout=compact&langs_count=7&theme=react"/>
 </div>
+
+Olá! Me chamo Alexandre! 👋
+Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+
+about Mais sobre mim
+
+
+const express = require('express')
+const app = express()
+
+const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
+
+app.get('/', (req, res) =>{
+  return res.send(webDeveloper)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+Linguagens e Ferramentas:
+
+       
+
+
+Vamos nos Conectar:
+  
+
+
+Snake animation
