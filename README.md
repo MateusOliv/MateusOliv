@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
 
-- 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
+- 📫 How to reach me: **mateus.oliv.nunes@gmail.com**<a target="_blank" href="mateus.oliv.nunes@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 - :mag: See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-oliv/)
 
 <h3 align="left">Connect with me:</h3>
