@@ -6,7 +6,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/mateus-oliv/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
+<h4> - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**</h4>
+  <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</p>
    <a - 📫 How to reach me: target="_blank" href="mateus.oliv.nunes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
