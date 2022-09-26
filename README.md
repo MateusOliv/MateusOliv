@@ -2,8 +2,8 @@
 <h3 align="center">Looking for internship experience in software development and analysis</h3>
 
 <p align="left">
-<h1> - :mag: See my LinkedIn:</h1>
-  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
+<h4> - :mag: See my LinkedIn:</h4>
+  <a target="_blank" href="https://www.linkedin.com/in/mateus-oliv/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  - 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
