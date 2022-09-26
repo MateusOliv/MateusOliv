@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h4> - 📫 How to reach me:</h4>
-  <a target="_blank" href="mateus.oliv.nunes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
    <a - 📫 How to reach me: target="_blank" href="mateus.oliv.nunes@gmail.com" alt="Gmail">
