@@ -1,10 +1,18 @@
 <h1 align="center">Mateus Nunes</h1>
 <h3 align="center">Looking for internship experience in software development and analysis</h3>
 
-- 🌱 I’m currently learning **English,JavaScript,Python,HTML and CSS.**
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 📫 How to reach me: **mateus.oliv.nunes@gmail.com**<a target="_blank" href="mateus.oliv.nunes@gmail.com" alt="Gmail">
+  <a target="_blank" href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</p>
+
+- 📫 How to reach me: **mateus.oliv.nunes@gmail.com**
 - :mag: See my LinkedIn: [Mateus Nunes](https://www.linkedin.com/in/mateus-oliv/)
 
 <h3 align="left">Connect with me:</h3>
