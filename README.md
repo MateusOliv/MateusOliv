@@ -27,7 +27,7 @@ mateus.oliv.nunes@gmail.com
 <br>
 <div align="center">
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/MateusOliv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliv&theme=light&hide_langs_below=1" />
 </a>
 
