@@ -31,6 +31,6 @@ mateus.oliv.nunes@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliv&theme=light&hide_langs_below=1" />
 </a>
 
-![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/blob/output/github-contribution-grid-snake.svg)
 
 </div>
