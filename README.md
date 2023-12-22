@@ -33,7 +33,7 @@
 <div align="center">
 
 <a href="https://github.com/MateusOliv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliv&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliv&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
 </div>
