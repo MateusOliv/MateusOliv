@@ -1,7 +1,6 @@
 <h1 align="center">Mateus Nunes</h1>
 <h3 align="center">Looking for internship experience in software development and analysis</h3>
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://cdn.discordapp.com/attachments/1076560271646150738/1154878279858266224/Hand_coding-bro.png">
 
 <h4> - 📫 How to reach me:</h4>
  <a href = "mateus.oliv.nunes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
