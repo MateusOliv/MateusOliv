@@ -1,5 +1,5 @@
 <h1 align="center">Mateus Nunes</h1>
-<h3 align="center">Looking for internship experience in software development and analysis</h3>
+<h3 align="center">C#/.NET Developer | Turning requirements into robust backend solutions</h3>
 
 
 <h4> - 📫 How to reach me:</h4>
